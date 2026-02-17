@@ -1,0 +1,76 @@
+{
+  "shots": [
+    {
+      "shot_id": 1,
+      "narrative_beat_ref": "Astronaut Rachel Kim approaches the ancient door",
+      "shot_type": "medium_long",
+      "lens_mm": 50,
+      "lighting": {
+        "key": "soft_box",
+        "fill": "bounce",
+        "ratio": "2:1"
+      },
+      "movement": {
+        "type": "dolly_in",
+        "speed": "slow"
+      },
+      "aspect_ratio": "2.39:1",
+      "mood": "intimate_low_key",
+      "visual_prompt": "stardust: Astronaut Rachel Kim, dressed in a worn Martian terrain suit, approaches the ancient door with caution, her footsteps echoing in the stillness of the Martian landscape."
+    },
+    {
+      "shot_id": 2,
+      "narrative_beat_ref": "The door, covered in intricate carvings, begins to glow with a soft, blue light",
+      "shot_type": "close_up",
+      "lens_mm": 85,
+      "lighting": {
+        "key": "soft_box",
+        "fill": "negative",
+        "ratio": "3:1"
+      },
+      "movement": {
+        "type": "static",
+        "speed": "slow"
+      },
+      "aspect_ratio": "2.39:1",
+      "mood": "moody_high_contrast",
+      "visual_prompt": "stardust: Close-up of the ancient door as it begins to glow with an ethereal, soft blue light, illuminating the intricate carvings and casting an otherworldly glow on Rachel's face."
+    },
+    {
+      "shot_id": 3,
+      "narrative_beat_ref": "Rachel makes contact with the door, it slides open with a low hum",
+      "shot_type": "wide",
+      "lens_mm": 24,
+      "lighting": {
+        "key": "hard_sun",
+        "fill": "bounce",
+        "ratio": "4:1"
+      },
+      "movement": {
+        "type": "dolly_out",
+        "speed": "slow"
+      },
+      "aspect_ratio": "2.39:1",
+      "mood": "epic_wide",
+      "visual_prompt": "stardust: As Rachel makes contact with the door, it slides open, revealing a dark chamber beyond, and Rachel steps forward, her suit's lights illuminating the unknown space."
+    },
+    {
+      "shot_id": 4,
+      "narrative_beat_ref": "Rachel steps into the chamber, her suit's lights illuminating the space",
+      "shot_type": "medium_close_up",
+      "lens_mm": 50,
+      "lighting": {
+        "key": "soft_box",
+        "fill": "negative",
+        "ratio": "2:1"
+      },
+      "movement": {
+        "type": "handheld",
+        "speed": "frenetic"
+      },
+      "aspect_ratio": "2.39:1",
+      "mood": "intense_disorienting",
+      "visual_prompt": "stardust: Rachel steps into the chamber, her suit's lights illuminating the dark space, and she looks around in awe, the camera moving quickly to capture her sense of wonder and curiosity."
+    }
+  ]
+}

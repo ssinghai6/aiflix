@@ -1,0 +1,15 @@
+# Environment Variables
+.env
+.venv
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
